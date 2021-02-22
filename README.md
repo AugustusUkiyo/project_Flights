@@ -1,7 +1,7 @@
 # project_Flights_SQL_PANDAS
 
 
-Data warangling and exploration project 
+Data wrangling and exploration project 
 Make sure you download all dataset files from this link and put them in the 
 same directory as the notebook before executing 
 
